@@ -1,5 +1,4 @@
 Проект бота на Python. Бот выводит сведения о текущей погоде с сайта OpenWetherMap  (https://openweathermap.org).
-Пример работы с API OpenWetherMap на Python (https://openweathermap.org). 
 ## Настройка доступа к API OpenWetherMap
 ***
 Пример работы с API OpenWetherMap на Python рассмотрен в https://github.com/jony67/openweather.
